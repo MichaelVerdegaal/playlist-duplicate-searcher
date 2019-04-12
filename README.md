@@ -4,8 +4,8 @@ This is a small script to find duplicates in two separate text files. This was o
 
 # Requirements
 
-An installation of Python 3.7+
-The fuzzywuzzy package (```pip install fuzzywuzzy``` or ```pip install fuzzywuzzy[speedup]``` in root python installation)
+- An installation of Python 3.7+
+- The fuzzywuzzy package (```pip install fuzzywuzzy``` or ```pip install fuzzywuzzy[speedup]``` in root python installation)
 
 # Usage
 
